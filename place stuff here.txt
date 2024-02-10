@@ -1,0 +1,16 @@
+title: wallpeO
+originalAuthor: Lord Danimalforlife
+description: wallpeO-YEAH!
+
+assets:
+- name: remastered\obj\W_EX030.mdlx\-0.dds
+  method: copy
+  source:
+- name: remastered\obj\W_EX030_NM.mdlx\-0.dds
+  method: copy
+  source:
+- name: remastered\obj\W_EX030_TR.mdlx\-0.dds
+  method: copy
+  source:- name: remastered\obj\W_EX030_WI.mdlx\-0.dds
+  method: copy
+  source:
